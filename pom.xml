@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong.common</groupId>
-	<artifactId>RESTProject</artifactId>
+	<artifactId>RESTWService</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>RESTProjet</name>
+	<name>RESTWService</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -48,7 +48,7 @@
 	</dependencies>
 
 	<build>
-    	<finalName>RESTProject</finalName>
+    	<finalName>RESTWService</finalName>
   	</build>
 
 </project>
